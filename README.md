@@ -18,9 +18,9 @@ Here are some ideas to get you started:
 
 -->
 
-![Stats](https://github-readme-stats-six-mocha.vercel.app/api?username=TronNatthakorn&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true")
+![Stats](https://github-readme-stats-six-mocha.vercel.app/api?username=TronNatthakorn&show_icons=true&include_all_commits=true&hide_border=true")
 
 <a href="https://github.com/TronNatthakorn/react-native-wheel-pick">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=TronNatthakorn&repo=reac-native-wheel-pick&theme=buefy" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=TronNatthakorn&repo=react-native-wheel-pick" />
 </a>
 
